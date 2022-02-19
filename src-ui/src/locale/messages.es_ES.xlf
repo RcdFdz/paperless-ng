@@ -920,7 +920,7 @@
           <context context-type="sourcefile">src/app/components/manage/correspondent-list/correspondent-list.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
-        <target state="translated">Tipos de documento</target>
+        <target state="translated">Correspondencia</target>
       </trans-unit>
       <trans-unit id="0488919cff4fcc2174d34e4a1167f1b3c586ca37" datatype="html">
         <source>Last correspondence</source>
